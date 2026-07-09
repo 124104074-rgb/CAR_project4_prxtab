@@ -1,0 +1,10 @@
+{
+    "source_file": "4_dharmendra.xlsx",
+    "live_file": "live_data.csv",
+    "source_sheet": 3,
+    "header_row": 1,
+    "delay_sec": 0.05,
+    "running": true,
+    "loop": false,
+    "session_id": 1783533297
+}
